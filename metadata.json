@@ -1,0 +1,6 @@
+{
+  "name": "Home Appliances Shop",
+  "description": "An elegant e-commerce platform for browsing, filtering, and ordering home appliances, complete with an interactive developer's project documentation hub, database schemas, and architectural designs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
